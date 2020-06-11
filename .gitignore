@@ -1,2 +1,3 @@
 datasets
 *.caffemodel
+.ipynb_checkpoints

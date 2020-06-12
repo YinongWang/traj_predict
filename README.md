@@ -12,5 +12,3 @@ You can download **<a href="https://arxiv.org/abs/1803.10892">data</a>** provide
 
  You can download **<a href="http://www.robots.ox.ac.uk/~vgg/research/very_deep/">pre-trained VGG-19 model</a>** provided by Long et al. (**<a href="https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Long_Fully_Convolutional_Networks_2015_CVPR_paper.html">Fully Convolutional Networks for Semantic Segmentation</a>**) using the command `bash download_vgg19.sh`.
 
-
-

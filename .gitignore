@@ -1,3 +1,6 @@
 datasets
 *.caffemodel
+*.prototxt
 .ipynb_checkpoints
+__pycache__
+caffemodel2pytorch.py
